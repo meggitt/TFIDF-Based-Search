@@ -32,7 +32,7 @@ This project implements a TF-IDF (Term Frequency-Inverse Document Frequency) bas
 
 1. **Clone the repository**:
    ```sh
-   git clone [https://github.com/your-repo/tfidf-search-engine.git](https://github.com/meggitt/TFIDF-Based-Search.git)
+   git clone https://github.com/your-repo/tfidf-search-engine.git
    cd tfidf-search-engine
    ```
 
